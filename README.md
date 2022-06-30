@@ -2,11 +2,11 @@
 
 ## Editando o perfil
 
--Olá, meu nome é **@SaraPSA**
+:upside_down_face: -Moshi, Moshi (olá) meu nome é **SaraPSA**
 
--Eu estou interessada em aprender a programar novas lingugens.
+:slightly_smiling_face: -Eu estou interessada em aprender a programar novas lingugens.
 
--E estou Aprendendo à programar recentemente no Scratch.
+:grin: -E estou Aprendendo à programar recentemente no **Scratch** e no prório **Github** 
 
 
 
